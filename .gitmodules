@@ -1,3 +1,6 @@
 [submodule "astro"]
 	path = astro
 	url = https://github.com/Br4N012/astro.git
+[submodule "next"]
+	path = next
+	url = https://github.com/Br4N012/next.git
