@@ -4,3 +4,6 @@
 [submodule "next"]
 	path = next
 	url = https://github.com/Br4N012/next.git
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/Br4N012/Angular.git
