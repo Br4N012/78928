@@ -10,3 +10,6 @@
 [submodule "Express"]
 	path = Express
 	url = https://github.com/Br4N012/Express.git
+[submodule "Springboot"]
+	path = Springboot
+	url = https://github.com/Br4N012/Springboot.git
