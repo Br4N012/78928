@@ -16,3 +16,6 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/Br4N012/react.git
+[submodule "paho"]
+	path = paho
+	url = https://github.com/Br4N012/paho.git
