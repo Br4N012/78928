@@ -19,3 +19,6 @@
 [submodule "paho"]
 	path = paho
 	url = https://github.com/Br4N012/paho.git
+[submodule "proyecto"]
+	path = proyecto
+	url = https://github.com/Miguel20-bit/proyecto.git
